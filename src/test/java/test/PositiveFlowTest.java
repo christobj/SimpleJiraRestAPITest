@@ -11,7 +11,7 @@ import base.BaseAPI;
  * @author Christob Arputharaj
  *
  */
-public class LoginTest extends BaseAPI{
+public class PositiveFlowTest extends BaseAPI{
 	
 	@Test
 	public void positiveTest() {
