@@ -12,13 +12,13 @@ public class JiraApiConstants {
 	
 	private static final String CONTENT_TYPE_JSON = "application/json";
 	
+	private static final String LOGIN_PATH = "/rest/auth/1/session";
+	
 	public static final String CONTENT_TYPE = "Content-Type";
 	
 	public static final String CONTENT_TYPE_ATTACHMENT = "X-Atlassian-Token";
 	
 	public static final String CONTENT_TYPE_NO_CHECK = "no-check";
-	
-	private static final String LOGIN_PATH = "/rest/auth/1/session";
 	
 	public static final int STATUS_CODE_200 = 200;
 	
